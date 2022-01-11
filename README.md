@@ -37,6 +37,5 @@
 <div/>
   
 <div>
- 
- ![Snake animation](https://github.com/santos-breno/santos-breno/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/santos-breno/santos-breno/blob/output/github-contribution-grid-snake.svg)
 </div>
