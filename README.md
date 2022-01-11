@@ -18,7 +18,7 @@
   <img align="center" alt="Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" />
-  <img align="center" alt="Apache Nifi" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg">
+  <img align="center" alt="Apache Nifi" height="30" width="40"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_167863.png">
   
   <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
