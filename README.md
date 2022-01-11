@@ -5,8 +5,8 @@
 - 
 <div>
   <a href="https://github.com/santos-breno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santos-breno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-breno&layout=compact&langs_count=7&theme=radical"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=santos-breno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-breno&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   ##
@@ -15,10 +15,11 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-  <img align="center" alt="Airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain.svg" />
+  <img align="center" alt="Airflow" height="30" width="40" src="https://miro.medium.com/max/2400/1*sDqMG4TKa0z6y66oD2HVnw.png" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" />
-  <img align="center" alt="Apache Nifi" height="30" width="40"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_167863.png">
+  <img align="center" alt="Apache Nifi" height="30" width="40"  src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d126f094f8a50e553d82706d908d28c4/apache-nifi.jpg">
+  
   <img align="center" alt="GIT" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
   
