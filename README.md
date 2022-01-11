@@ -2,10 +2,11 @@
 
 - ⌚ Currently working with Data, Analitycs and Risk
 - 💻 Studying Analysis and Systems Development
+- 
 <div>
   <a href="https://github.com/santos-breno">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=santos-breno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-breno&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santos-breno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-breno&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   ##
