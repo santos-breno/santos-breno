@@ -1,6 +1,6 @@
 # Hi, I'm Breno
 
-- ⌚ Currently working with Data, Analitycs and Risk
+- ⌚ Currently working with Analytics Engineer at Zak
 - 💻 Studying Analysis and Systems Development
 
 <div>
